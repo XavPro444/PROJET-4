@@ -40,7 +40,7 @@ namespace AtelierXNA
          const int DIMENSION_TERRAIN = 256;
          Vector2 étenduePlan = new Vector2(DIMENSION_TERRAIN, DIMENSION_TERRAIN);
          Vector2 charpentePlan = new Vector2(4, 3);
-         Vector3 positionCaméra = new Vector3(0, 250, 125);
+         Vector3 positionCaméra = new Vector3(-8, 11, 120);
          Vector3 cibleCaméra = new Vector3(0, 0, 0);
          Vector3 positionARC170 = new Vector3(25, 15, 0);
          Vector3 positionBiplan = new Vector3(20, 10, 0);
@@ -216,13 +216,12 @@ namespace AtelierXNA
          Vector3 positionCaméra4 = new Vector3(-75, 20, 50);
          Vector3 cibleCaméra4 = new Vector3(-90, 10, 90);
 
-         if (GestionInput.EstEnfoncée(Keys.Escape))
+         if (GestionInput.EstEnfoncée(Keys.Escape) || GamePad.GetState(PlayerIndex.One).IsButtonDown(Buttons.Back))
          {
-            Exit();
+             Exit();
          }
-         if (!(GestionInput.EstEnfoncée(Keys.LeftShift) || GestionInput.EstEnfoncée(Keys.RightShift) ||
-               GestionInput.EstEnfoncée(Keys.LeftControl) || GestionInput.EstEnfoncée(Keys.RightControl)))
-         {
+       
+         
             if (GestionInput.EstNouvelleTouche(Keys.D1) || GestionInput.EstNouvelleTouche(Keys.NumPad1))
             {
                CaméraJeu.Déplacer(positionCaméra0, cibleCaméra, Vector3.Up);
@@ -256,7 +255,7 @@ namespace AtelierXNA
                }
             }
          }
-      }
+      
 
       protected override void Draw(GameTime gameTime)
       {

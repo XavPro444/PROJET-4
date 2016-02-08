@@ -7,8 +7,8 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\201458136\Documents\PROG4\PROG4\AS-3D-2015 - À compléter\AS-3D-2015\AS-3D-2015\bin\x86\Release\Content\Fonts\Arial20.xnb</Output>
-      <Time>2016-02-03T10:06:55.427088-05:00</Time>
+      <Output>C:\Users\201431859\Desktop\PROJET-4\AS-3D-2015\AS-3D-2015\bin\x86\Release\Content\Fonts\Arial20.xnb</Output>
+      <Time>2016-02-08T15:33:14.3687173-05:00</Time>
     </Item>
     <Item>
       <Source>Models\airplane_blue.x</Source>
@@ -16,13 +16,13 @@
       <Importer>XImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\201458136\Documents\PROG4\PROG4\AS-3D-2015 - À compléter\AS-3D-2015\AS-3D-2015\bin\x86\Release\Content\Models\airplane_blue.xnb</Output>
-      <Time>2016-02-03T10:06:55.4738649-05:00</Time>
+      <Output>C:\Users\201431859\Desktop\PROJET-4\AS-3D-2015\AS-3D-2015\bin\x86\Release\Content\Models\airplane_blue.xnb</Output>
+      <Time>2016-02-08T15:33:14.4777173-05:00</Time>
       <Dependency>
         <Key>obj\x86\Release\Models\airplane_blue_0.xml</Key>
-        <Value>2016-02-03T10:07:18.1101144-05:00</Value>
+        <Value>2016-02-08T15:34:02.3817173-05:00</Value>
       </Dependency>
-      <Request>C:\Users\201458136\Documents\PROG4\PROG4\AS-3D-2015 - À compléter\AS-3D-2015\AS-3D-2015\bin\x86\Release\Content\Models\airplane_blue_tex_0.xnb</Request>
+      <Request>C:\Users\201431859\Desktop\PROJET-4\AS-3D-2015\AS-3D-2015\bin\x86\Release\Content\Models\airplane_blue_tex_0.xnb</Request>
     </Item>
     <Item>
       <Source>Models\Feisar.FBX</Source>
@@ -30,13 +30,13 @@
       <Importer>FbxImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\201458136\Documents\PROG4\PROG4\AS-3D-2015 - À compléter\AS-3D-2015\AS-3D-2015\bin\x86\Release\Content\Models\Feisar.xnb</Output>
-      <Time>2016-02-03T10:06:55.7857109-05:00</Time>
+      <Output>C:\Users\201431859\Desktop\PROJET-4\AS-3D-2015\AS-3D-2015\bin\x86\Release\Content\Models\Feisar.xnb</Output>
+      <Time>2016-02-08T15:33:14.4627173-05:00</Time>
       <Dependency>
         <Key>obj\x86\Release\Models\Feisar_0.xml</Key>
-        <Value>2016-02-03T10:07:18.6714372-05:00</Value>
+        <Value>2016-02-08T15:34:02.7337173-05:00</Value>
       </Dependency>
-      <Request>C:\Users\201458136\Documents\PROG4\PROG4\AS-3D-2015 - À compléter\AS-3D-2015\AS-3D-2015\bin\x86\Release\Content\diffuse_0.xnb</Request>
+      <Request>C:\Users\201431859\Desktop\PROJET-4\AS-3D-2015\AS-3D-2015\bin\x86\Release\Content\diffuse_0.xnb</Request>
     </Item>
     <Item>
       <Source>Models\ARC170.fbx</Source>
@@ -44,13 +44,13 @@
       <Importer>FbxImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\201458136\Documents\PROG4\PROG4\AS-3D-2015 - À compléter\AS-3D-2015\AS-3D-2015\bin\x86\Release\Content\Models\ARC170.xnb</Output>
-      <Time>2016-02-03T10:06:55.7077494-05:00</Time>
+      <Output>C:\Users\201431859\Desktop\PROJET-4\AS-3D-2015\AS-3D-2015\bin\x86\Release\Content\Models\ARC170.xnb</Output>
+      <Time>2016-02-08T15:33:14.4487173-05:00</Time>
       <Dependency>
         <Key>obj\x86\Release\Models\ARC170_0.xml</Key>
-        <Value>2016-02-03T10:07:20.2462595-05:00</Value>
+        <Value>2016-02-08T15:34:04.3617173-05:00</Value>
       </Dependency>
-      <Request>C:\Users\201458136\Documents\PROG4\PROG4\AS-3D-2015 - À compléter\AS-3D-2015\AS-3D-2015\bin\x86\Release\Content\Models\ARC170_T_0.xnb</Request>
+      <Request>C:\Users\201431859\Desktop\PROJET-4\AS-3D-2015\AS-3D-2015\bin\x86\Release\Content\Models\ARC170_T_0.xnb</Request>
     </Item>
     <Item>
       <Source>Textures\CielArrière.png</Source>
@@ -58,8 +58,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\201458136\Documents\PROG4\PROG4\AS-3D-2015 - À compléter\AS-3D-2015\AS-3D-2015\bin\x86\Release\Content\Textures\CielArrière.xnb</Output>
-      <Time>2016-02-03T10:06:56.7524335-05:00</Time>
+      <Output>C:\Users\201431859\Desktop\PROJET-4\AS-3D-2015\AS-3D-2015\bin\x86\Release\Content\Textures\CielArrière.xnb</Output>
+      <Time>2016-02-08T15:33:14.4877173-05:00</Time>
     </Item>
     <Item>
       <Source>Textures\CielAvant.png</Source>
@@ -67,8 +67,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\201458136\Documents\PROG4\PROG4\AS-3D-2015 - À compléter\AS-3D-2015\AS-3D-2015\bin\x86\Release\Content\Textures\CielAvant.xnb</Output>
-      <Time>2016-02-03T10:06:56.7836181-05:00</Time>
+      <Output>C:\Users\201431859\Desktop\PROJET-4\AS-3D-2015\AS-3D-2015\bin\x86\Release\Content\Textures\CielAvant.xnb</Output>
+      <Time>2016-02-08T15:33:14.4887173-05:00</Time>
     </Item>
     <Item>
       <Source>Textures\CielDroite.png</Source>
@@ -76,8 +76,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\201458136\Documents\PROG4\PROG4\AS-3D-2015 - À compléter\AS-3D-2015\AS-3D-2015\bin\x86\Release\Content\Textures\CielDroite.xnb</Output>
-      <Time>2016-02-03T10:06:56.8459873-05:00</Time>
+      <Output>C:\Users\201431859\Desktop\PROJET-4\AS-3D-2015\AS-3D-2015\bin\x86\Release\Content\Textures\CielDroite.xnb</Output>
+      <Time>2016-02-08T15:33:14.4907173-05:00</Time>
     </Item>
     <Item>
       <Source>Textures\CielGauche.png</Source>
@@ -85,8 +85,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\201458136\Documents\PROG4\PROG4\AS-3D-2015 - À compléter\AS-3D-2015\AS-3D-2015\bin\x86\Release\Content\Textures\CielGauche.xnb</Output>
-      <Time>2016-02-03T10:06:56.8771719-05:00</Time>
+      <Output>C:\Users\201431859\Desktop\PROJET-4\AS-3D-2015\AS-3D-2015\bin\x86\Release\Content\Textures\CielGauche.xnb</Output>
+      <Time>2016-02-08T15:33:14.4917173-05:00</Time>
     </Item>
     <Item>
       <Source>Textures\CielDessus.png</Source>
@@ -94,8 +94,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\201458136\Documents\PROG4\PROG4\AS-3D-2015 - À compléter\AS-3D-2015\AS-3D-2015\bin\x86\Release\Content\Textures\CielDessus.xnb</Output>
-      <Time>2016-02-03T10:06:56.8148027-05:00</Time>
+      <Output>C:\Users\201431859\Desktop\PROJET-4\AS-3D-2015\AS-3D-2015\bin\x86\Release\Content\Textures\CielDessus.xnb</Output>
+      <Time>2016-02-08T15:33:14.4887173-05:00</Time>
     </Item>
     <Item>
       <Source>Textures\Terrain.bmp</Source>
@@ -103,8 +103,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\201458136\Documents\PROG4\PROG4\AS-3D-2015 - À compléter\AS-3D-2015\AS-3D-2015\bin\x86\Release\Content\Textures\Terrain.xnb</Output>
-      <Time>2016-02-03T10:06:57.2669794-05:00</Time>
+      <Output>C:\Users\201431859\Desktop\PROJET-4\AS-3D-2015\AS-3D-2015\bin\x86\Release\Content\Textures\Terrain.xnb</Output>
+      <Time>2016-02-08T15:33:14.5737173-05:00</Time>
     </Item>
     <Item>
       <Source>Textures\TheWalkingDead.jpg</Source>
@@ -112,8 +112,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\201458136\Documents\PROG4\PROG4\AS-3D-2015 - À compléter\AS-3D-2015\AS-3D-2015\bin\x86\Release\Content\Textures\TheWalkingDead.xnb</Output>
-      <Time>2016-02-03T10:06:57.3761255-05:00</Time>
+      <Output>C:\Users\201431859\Desktop\PROJET-4\AS-3D-2015\AS-3D-2015\bin\x86\Release\Content\Textures\TheWalkingDead.xnb</Output>
+      <Time>2016-02-08T15:33:14.5827173-05:00</Time>
     </Item>
     <Item>
       <Source>Textures\HungerGames.jpg</Source>
@@ -121,8 +121,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\201458136\Documents\PROG4\PROG4\AS-3D-2015 - À compléter\AS-3D-2015\AS-3D-2015\bin\x86\Release\Content\Textures\HungerGames.xnb</Output>
-      <Time>2016-02-03T10:06:56.986318-05:00</Time>
+      <Output>C:\Users\201431859\Desktop\PROJET-4\AS-3D-2015\AS-3D-2015\bin\x86\Release\Content\Textures\HungerGames.xnb</Output>
+      <Time>2016-02-08T15:33:14.4987173-05:00</Time>
     </Item>
     <Item>
       <Source>Textures\StarWars7.jpg</Source>
@@ -130,8 +130,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\201458136\Documents\PROG4\PROG4\AS-3D-2015 - À compléter\AS-3D-2015\AS-3D-2015\bin\x86\Release\Content\Textures\StarWars7.xnb</Output>
-      <Time>2016-02-03T10:06:57.2202025-05:00</Time>
+      <Output>C:\Users\201431859\Desktop\PROJET-4\AS-3D-2015\AS-3D-2015\bin\x86\Release\Content\Textures\StarWars7.xnb</Output>
+      <Time>2016-02-08T15:33:14.5687173-05:00</Time>
     </Item>
     <Item>
       <Source>Textures\DétailsTerrain.jpg</Source>
@@ -139,8 +139,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\201458136\Documents\PROG4\PROG4\AS-3D-2015 - À compléter\AS-3D-2015\AS-3D-2015\bin\x86\Release\Content\Textures\DétailsTerrain.xnb</Output>
-      <Time>2016-02-03T10:06:56.9395411-05:00</Time>
+      <Output>C:\Users\201431859\Desktop\PROJET-4\AS-3D-2015\AS-3D-2015\bin\x86\Release\Content\Textures\DétailsTerrain.xnb</Output>
+      <Time>2016-02-08T15:33:14.4947173-05:00</Time>
     </Item>
     <Item>
       <Source>Models\ARC170_T.TGA</Source>
@@ -148,8 +148,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\201458136\Documents\PROG4\PROG4\AS-3D-2015 - À compléter\AS-3D-2015\AS-3D-2015\bin\x86\Release\Content\Models\ARC170_T.xnb</Output>
-      <Time>2016-02-03T10:06:55.738934-05:00</Time>
+      <Output>C:\Users\201431859\Desktop\PROJET-4\AS-3D-2015\AS-3D-2015\bin\x86\Release\Content\Models\ARC170_T.xnb</Output>
+      <Time>2016-02-08T15:33:14.4557173-05:00</Time>
     </Item>
     <Item>
       <Source>Textures\LionelEssai1.png</Source>
@@ -157,8 +157,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\201458136\Documents\PROG4\PROG4\AS-3D-2015 - À compléter\AS-3D-2015\AS-3D-2015\bin\x86\Release\Content\Textures\LionelEssai1.xnb</Output>
-      <Time>2016-02-03T10:06:57.0330949-05:00</Time>
+      <Output>C:\Users\201431859\Desktop\PROJET-4\AS-3D-2015\AS-3D-2015\bin\x86\Release\Content\Textures\LionelEssai1.xnb</Output>
+      <Time>2016-02-08T15:33:14.4997173-05:00</Time>
     </Item>
     <Item>
       <Source>Textures\LionelEssai2.png</Source>
@@ -166,8 +166,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\201458136\Documents\PROG4\PROG4\AS-3D-2015 - À compléter\AS-3D-2015\AS-3D-2015\bin\x86\Release\Content\Textures\LionelEssai2.xnb</Output>
-      <Time>2016-02-03T10:06:57.0798718-05:00</Time>
+      <Output>C:\Users\201431859\Desktop\PROJET-4\AS-3D-2015\AS-3D-2015\bin\x86\Release\Content\Textures\LionelEssai2.xnb</Output>
+      <Time>2016-02-08T15:33:14.5007173-05:00</Time>
     </Item>
     <Item>
       <Source>Textures\Texture1Essai.png</Source>
@@ -175,8 +175,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\201458136\Documents\PROG4\PROG4\AS-3D-2015 - À compléter\AS-3D-2015\AS-3D-2015\bin\x86\Release\Content\Textures\Texture1Essai.xnb</Output>
-      <Time>2016-02-03T10:06:57.3137563-05:00</Time>
+      <Output>C:\Users\201431859\Desktop\PROJET-4\AS-3D-2015\AS-3D-2015\bin\x86\Release\Content\Textures\Texture1Essai.xnb</Output>
+      <Time>2016-02-08T15:33:14.5747173-05:00</Time>
     </Item>
     <Item>
       <Source>Textures\LionelEssai3.png</Source>
@@ -184,8 +184,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\201458136\Documents\PROG4\PROG4\AS-3D-2015 - À compléter\AS-3D-2015\AS-3D-2015\bin\x86\Release\Content\Textures\LionelEssai3.xnb</Output>
-      <Time>2016-02-03T10:06:57.1110564-05:00</Time>
+      <Output>C:\Users\201431859\Desktop\PROJET-4\AS-3D-2015\AS-3D-2015\bin\x86\Release\Content\Textures\LionelEssai3.xnb</Output>
+      <Time>2016-02-08T15:33:14.5007173-05:00</Time>
     </Item>
     <Item>
       <Source>Textures\TextureEssai2.png</Source>
@@ -193,8 +193,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\201458136\Documents\PROG4\PROG4\AS-3D-2015 - À compléter\AS-3D-2015\AS-3D-2015\bin\x86\Release\Content\Textures\TextureEssai2.xnb</Output>
-      <Time>2016-02-03T10:06:57.3449409-05:00</Time>
+      <Output>C:\Users\201431859\Desktop\PROJET-4\AS-3D-2015\AS-3D-2015\bin\x86\Release\Content\Textures\TextureEssai2.xnb</Output>
+      <Time>2016-02-08T15:33:14.5767173-05:00</Time>
     </Item>
     <Item>
       <Source>Textures\LionelEssai4.png</Source>
@@ -202,15 +202,105 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\201458136\Documents\PROG4\PROG4\AS-3D-2015 - À compléter\AS-3D-2015\AS-3D-2015\bin\x86\Release\Content\Textures\LionelEssai4.xnb</Output>
-      <Time>2016-02-03T10:06:57.1578333-05:00</Time>
+      <Output>C:\Users\201431859\Desktop\PROJET-4\AS-3D-2015\AS-3D-2015\bin\x86\Release\Content\Textures\LionelEssai4.xnb</Output>
+      <Time>2016-02-08T15:33:14.5017173-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\LionelEssai5.jpg</Source>
+      <Name>Textures\LionelEssai5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\201431859\Desktop\PROJET-4\AS-3D-2015\AS-3D-2015\bin\x86\Release\Content\Textures\LionelEssai5.xnb</Output>
+      <Time>2016-02-08T15:33:14.5037173-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\World.jpg</Source>
+      <Name>Textures\World</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\201431859\Desktop\PROJET-4\AS-3D-2015\AS-3D-2015\bin\x86\Release\Content\Textures\World.xnb</Output>
+      <Time>2016-02-08T15:33:14.5907173-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\SQWAD.jpg</Source>
+      <Name>Textures\SQWAD</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\201431859\Desktop\PROJET-4\AS-3D-2015\AS-3D-2015\bin\x86\Release\Content\Textures\SQWAD.xnb</Output>
+      <Time>2016-02-08T15:33:14.5637173-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\MurPavillon.jpg</Source>
+      <Name>Textures\MurPavillon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\201431859\Desktop\PROJET-4\AS-3D-2015\AS-3D-2015\bin\x86\Release\Content\Textures\MurPavillon.xnb</Output>
+      <Time>2016-02-08T15:33:14.5097173-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\ToitPavillon.jpg</Source>
+      <Name>Textures\ToitPavillon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\201431859\Desktop\PROJET-4\AS-3D-2015\AS-3D-2015\bin\x86\Release\Content\Textures\ToitPavillon.xnb</Output>
+      <Time>2016-02-08T15:33:14.5887173-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PortePavillon.png</Source>
+      <Name>Textures\PortePavillon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\201431859\Desktop\PROJET-4\AS-3D-2015\AS-3D-2015\bin\x86\Release\Content\Textures\PortePavillon.xnb</Output>
+      <Time>2016-02-08T15:33:14.5577173-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\FenetrePavillon.png</Source>
+      <Name>Textures\FenetrePavillon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\201431859\Desktop\PROJET-4\AS-3D-2015\AS-3D-2015\bin\x86\Release\Content\Textures\FenetrePavillon.xnb</Output>
+      <Time>2016-02-08T15:33:14.4967173-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\MurIntérieurPavillon.jpg</Source>
+      <Name>Textures\MurIntérieurPavillon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\201431859\Desktop\PROJET-4\AS-3D-2015\AS-3D-2015\bin\x86\Release\Content\Textures\MurIntérieurPavillon.xnb</Output>
+      <Time>2016-02-08T15:33:14.5067173-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PlancherIntérieurPavillon.png</Source>
+      <Name>Textures\PlancherIntérieurPavillon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\201431859\Desktop\PROJET-4\AS-3D-2015\AS-3D-2015\bin\x86\Release\Content\Textures\PlancherIntérieurPavillon.xnb</Output>
+      <Time>2016-02-08T15:33:14.5157173-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PlafondPavillon.jpg</Source>
+      <Name>Textures\PlafondPavillon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\201431859\Desktop\PROJET-4\AS-3D-2015\AS-3D-2015\bin\x86\Release\Content\Textures\PlafondPavillon.xnb</Output>
+      <Time>2016-02-08T15:33:14.5127173-05:00</Time>
     </Item>
     <Item>
       <Source>Models\airplane_blue.x</Source>
       <Importer>XImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
       <Output>obj\x86\Release\Models\airplane_blue_0.xml</Output>
-      <Time>2016-02-03T10:06:55.4738649-05:00</Time>
+      <Time>2016-02-08T15:33:14.4777173-05:00</Time>
     </Item>
     <Item>
       <Source>Models\airplane_blue_tex.bmp</Source>
@@ -225,18 +315,18 @@
         <Data Key="PremultiplyAlpha" Type="bool">true</Data>
       </Parameters>
       <Options>None</Options>
-      <Output>C:\Users\201458136\Documents\PROG4\PROG4\AS-3D-2015 - À compléter\AS-3D-2015\AS-3D-2015\bin\x86\Release\Content\Models\airplane_blue_tex_0.xnb</Output>
-      <Time>2016-02-03T10:06:55.5362341-05:00</Time>
+      <Output>C:\Users\201431859\Desktop\PROJET-4\AS-3D-2015\AS-3D-2015\bin\x86\Release\Content\Models\airplane_blue_tex_0.xnb</Output>
+      <Time>2016-02-08T15:33:14.4857173-05:00</Time>
     </Item>
     <Item>
       <Source>Models\Feisar.FBX</Source>
       <Importer>FbxImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
       <Output>obj\x86\Release\Models\Feisar_0.xml</Output>
-      <Time>2016-02-03T10:06:55.7857109-05:00</Time>
+      <Time>2016-02-08T15:33:14.4627173-05:00</Time>
     </Item>
     <Item>
-      <Source>C:\Users\201458136\Documents\PROG4\PROG4\AS-3D-2015 - À compléter\AS-3D-2015\diffuse.bmp</Source>
+      <Source>C:\Users\201431859\Desktop\PROJET-4\AS-3D-2015\diffuse.bmp</Source>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Parameters>
@@ -248,15 +338,15 @@
         <Data Key="PremultiplyAlpha" Type="bool">true</Data>
       </Parameters>
       <Options>None</Options>
-      <Output>C:\Users\201458136\Documents\PROG4\PROG4\AS-3D-2015 - À compléter\AS-3D-2015\AS-3D-2015\bin\x86\Release\Content\diffuse_0.xnb</Output>
-      <Time>2016-02-03T10:06:51.5446053-05:00</Time>
+      <Output>C:\Users\201431859\Desktop\PROJET-4\AS-3D-2015\AS-3D-2015\bin\x86\Release\Content\diffuse_0.xnb</Output>
+      <Time>2016-02-08T15:33:14.7537173-05:00</Time>
     </Item>
     <Item>
       <Source>Models\ARC170.fbx</Source>
       <Importer>FbxImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
       <Output>obj\x86\Release\Models\ARC170_0.xml</Output>
-      <Time>2016-02-03T10:06:55.7077494-05:00</Time>
+      <Time>2016-02-08T15:33:14.4487173-05:00</Time>
     </Item>
     <Item>
       <Source>Models\ARC170_T.TGA</Source>
@@ -271,35 +361,8 @@
         <Data Key="PremultiplyAlpha" Type="bool">true</Data>
       </Parameters>
       <Options>None</Options>
-      <Output>C:\Users\201458136\Documents\PROG4\PROG4\AS-3D-2015 - À compléter\AS-3D-2015\AS-3D-2015\bin\x86\Release\Content\Models\ARC170_T_0.xnb</Output>
-      <Time>2016-02-03T10:06:55.738934-05:00</Time>
-    </Item>
-    <Item>
-      <Source>Textures\LionelEssai5.jpg</Source>
-      <Name>Textures\LionelEssai5</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\201458136\Documents\PROG4\PROG4\AS-3D-2015 - À compléter\AS-3D-2015\AS-3D-2015\bin\x86\Release\Content\Textures\LionelEssai5.xnb</Output>
-      <Time>2016-02-03T11:14:18.3139654-05:00</Time>
-    </Item>
-    <Item>
-      <Source>Textures\World.jpg</Source>
-      <Name>Textures\World</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\201458136\Documents\PROG4\PROG4\AS-3D-2015 - À compléter\AS-3D-2015\AS-3D-2015\bin\x86\Release\Content\Textures\World.xnb</Output>
-      <Time>2016-02-03T10:33:51.2456937-05:00</Time>
-    </Item>
-    <Item>
-      <Source>Textures\SQWAD.jpg</Source>
-      <Name>Textures\SQWAD</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\201458136\Documents\PROG4\PROG4\AS-3D-2015 - À compléter\AS-3D-2015\AS-3D-2015\bin\x86\Release\Content\Textures\SQWAD.xnb</Output>
-      <Time>2016-02-03T11:23:01.1852447-05:00</Time>
+      <Output>C:\Users\201431859\Desktop\PROJET-4\AS-3D-2015\AS-3D-2015\bin\x86\Release\Content\Models\ARC170_T_0.xnb</Output>
+      <Time>2016-02-08T15:33:14.4557173-05:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -308,10 +371,10 @@
       <TargetProfile>HiDef</TargetProfile>
       <BuildConfiguration>Release</BuildConfiguration>
       <CompressContent>true</CompressContent>
-      <RootDirectory>C:\Users\201458136\Documents\PROG4\PROG4\AS-3D-2015 - À compléter\AS-3D-2015\AS-3D-2015Content\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\201458136\Documents\PROG4\PROG4\AS-3D-2015 - À compléter\AS-3D-2015\AS-3D-2015\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\201458136\Documents\PROG4\PROG4\AS-3D-2015 - À compléter\AS-3D-2015\AS-3D-2015Content\obj\x86\Release\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\201458136\Documents\PROG4\PROG4\AS-3D-2015 - À compléter\AS-3D-2015\AS-3D-2015\bin\x86\Release\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\201431859\Desktop\PROJET-4\AS-3D-2015\AS-3D-2015Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\201431859\Desktop\PROJET-4\AS-3D-2015\AS-3D-2015\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\201431859\Desktop\PROJET-4\AS-3D-2015\AS-3D-2015Content\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\201431859\Desktop\PROJET-4\AS-3D-2015\AS-3D-2015\bin\x86\Release\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
@@ -340,7 +403,7 @@
       </Assembly>
       <Assembly>
         <Key>C:\windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
-        <Value>2016-01-11T10:58:10.1530638-05:00</Value>
+        <Value>2016-01-11T10:53:34.6398238-05:00</Value>
       </Assembly>
     </Assemblies>
   </Asset>
